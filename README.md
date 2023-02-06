@@ -1,5 +1,5 @@
 # Movies-Magnet
-Movies reviewing website built using React Js and Java spring boot.
+Movies review application created using MongoDb for the database, Java and Spring Boot for the backend, and React for the frontend.
 
 # Home page samples
 
